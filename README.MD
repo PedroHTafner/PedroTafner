@@ -1,4 +1,4 @@
-# Hello, I'm Pedro Henrique Reck! 👋
+# Hello, I'm Pedro Tafner! 👋
 
 Welcome to my GitHub!
 
